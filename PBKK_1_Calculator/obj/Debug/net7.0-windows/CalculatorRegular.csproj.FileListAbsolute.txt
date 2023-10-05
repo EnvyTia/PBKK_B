@@ -1,0 +1,16 @@
+E:\VSae\CalculatorRegular\bin\Debug\net7.0-windows\CalculatorRegular.exe
+E:\VSae\CalculatorRegular\bin\Debug\net7.0-windows\CalculatorRegular.deps.json
+E:\VSae\CalculatorRegular\bin\Debug\net7.0-windows\CalculatorRegular.runtimeconfig.json
+E:\VSae\CalculatorRegular\bin\Debug\net7.0-windows\CalculatorRegular.dll
+E:\VSae\CalculatorRegular\bin\Debug\net7.0-windows\CalculatorRegular.pdb
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.Form1.resources
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.csproj.GenerateResource.cache
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.AssemblyInfoInputs.cache
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.AssemblyInfo.cs
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.csproj.CoreCompileInputs.cache
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.dll
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\refint\CalculatorRegular.dll
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.pdb
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\CalculatorRegular.genruntimeconfig.cache
+E:\VSae\CalculatorRegular\obj\Debug\net7.0-windows\ref\CalculatorRegular.dll
